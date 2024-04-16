@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SzDUK8d4ZO+aAeQgkh7O+nGdz6vZ3C/FyhRxU3bw6rg=",
+  "Source": "atmservice",
+  "BasePath": "_content/atmservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
