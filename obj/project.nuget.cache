@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gHyyxvQKOMJCqU9Qip3xA+LBHTJFZBbu5EfXTxckZi0xYsZmkBvcujeJsVfJCcuznSqbP3LgYRLB05r0fHU5IQ==",
+  "dgSpecHash": "yukdJlvyhuoTy41rAOOmFmRQq4mM/JIWd/bV1xTDyRr/tQd3phww+EPxmKHRLac3pgntZ2UM1+ognA4g1RAd2A==",
   "success": true,
   "projectFilePath": "F:\\Job project\\AtmSnapp\\WebService\\HS\\atmservice\\atmservice.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
