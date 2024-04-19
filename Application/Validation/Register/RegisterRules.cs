@@ -7,7 +7,7 @@ namespace atmservice.Application.Validation.Register
     {
         public RegisterRules()
         {
-            RuleFor(a => a.FullName.).NotNull();
+            RuleFor(a => a.FullName).NotNull();
         }
     }
 }

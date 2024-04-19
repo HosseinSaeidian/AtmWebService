@@ -32,3 +32,4 @@ F:\Job project\AtmSnapp\WebService\HS\atmservice\obj\Debug\net8.0\atmservice.pdb
 F:\Job project\AtmSnapp\WebService\HS\atmservice\obj\Debug\net8.0\atmservice.genruntimeconfig.cache
 F:\Job project\AtmSnapp\WebService\HS\atmservice\obj\Debug\net8.0\ref\atmservice.dll
 F:\Job project\AtmSnapp\WebService\HS\atmservice\obj\Debug\net8.0\atmservice.sourcelink.json
+F:\Job project\AtmSnapp\WebService\HS\atmservice\bin\Debug\net8.0\FluentValidation.dll
