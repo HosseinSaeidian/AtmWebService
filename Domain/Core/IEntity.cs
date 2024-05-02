@@ -3,7 +3,7 @@ namespace atmservice.Domain.Core
     public interface IEntity<key>
     where key : struct
     {
-        key UserId { get; set; }
+        key Id { get; set; }
 
         public DateTime TimeCreated { get; set; }
 

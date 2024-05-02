@@ -5,7 +5,7 @@ namespace atmservice.Domain.Entity
     public class Entity<key> : IEntity<key>
     where key : struct
     {
-        public key UserId {get; set;}
+        public key Id {get; set;}
         public DateTime TimeCreated {get; set;} = DateTime.Now;
         public DateTime TimeModify {get; set;}
         public bool IsDeleted {get; set;} = false;
